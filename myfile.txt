@@ -1,0 +1,6 @@
+zzzz, 111111, 11.12.2020
+Bogdan, Qwerty, 11/10/2020
+Andrei, bbbbbb, 10.10.2020
+Andrei, ddddd, 08-10-2020
+Adrian, fffff, 15.03.2020
+Ana, dd, 15.10.2020
